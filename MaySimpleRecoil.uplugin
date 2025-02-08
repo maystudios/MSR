@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MaySimpleRecoil",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "MayStudios - Sven Maibaum",
+	"CreatedByURL": "maystudios.net",
+	"LegalCopyright": "Copyright (c) 2023 MayStudios (Sven Maibaum). All Rights Reserved. This software is licensed for sale exclusively on fab. Unauthorized use, copying, or distribution is strictly prohibited.",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MaySimpleRecoil",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "MaySimpleRecoilEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
